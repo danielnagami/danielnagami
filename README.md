@@ -5,7 +5,7 @@
 <a href='https://open.spotify.com/user/danielnagami'><img align='left' alt="spotify" src="images/icon-spotify.png" height='18px'/></a>
 <hr>
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+<img align="right" height="250" width="375" alt="pudgy-coding" src="images/pudgy-coding.gif" />
 
 ### About Me:
 <br>
