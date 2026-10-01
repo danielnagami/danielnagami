@@ -1,12 +1,14 @@
 # Hi, I’m Daniel Nagami 👋
 
-<img align="right" height="220" width="330" alt="Developer at work" src="images/pudgy-coding.gif" />
-
 I’m a software engineer in São Paulo, Brazil, currently working at **Stefanini**. My focus is on applying AI to build useful, dependable software—supported by a foundation in backend development, cloud-ready systems, and thoughtful engineering practices.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-nagami/)
 [![Medium](https://img.shields.io/badge/Medium-Read_my_articles-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@daniel.nagami)
 [![Email](https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:daniel.nagami@gmail.com)
+
+<p align="center">
+  <img height="220" width="330" alt="Developer at work" src="images/pudgy-coding.gif" />
+</p>
 
 ## About me
 
